@@ -1,2 +1,4 @@
 # TheCureForCancer (TBA)
 Because Coders Are People and People Need To Eat.
+
+So, the idea behind the title is what is refered to as co-mining. So instead of mining two currenices you can mine cred WHILE donating CPU/GPU cycles to your favorite research project like World Community Grid et al. The application itself will be optimized to utlize exactly the resources you want. This incentivises the mining of the currency while icentivsing other tasks like cancer research with BOINC etc. It's a application that would ideally be used on iOS and OSX (Linux too). It's a great way of doing something good while earning real cred. Because of how Cred is frameworked to be given to organizations through a licensing/donation method the mining itself will still be necessary whether the coin is licensed to non-profits or not, which is why utlizing OSX, iOS AND Linux is ideal.
